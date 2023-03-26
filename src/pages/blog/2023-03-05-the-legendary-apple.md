@@ -13,8 +13,8 @@ tags: []
 ---
 - - -
 
-﻿**PROLOGUE**
--
+## ﻿**PROLOGUE**
+
 "﻿I don't get this type of farming!" cried Tim.
 
 "﻿Look, the steps are easy. First, plant the seeds. Then, give the seeds average water & sunlight and wait until they grow. Soon, you will have an apple tree as tall as you!" said Michael.
@@ -37,4 +37,4 @@ tags: []
 
 "﻿Dad, Michael having his anger issues again." said Tim.
 
-*﻿Why is this nuisance even my sibling?* thought Michael, as he was getting scolded by his dad for acting up. Michael was supposed to tutor his little brother Tim about farming.
+<I>Why is this nuisance even my sibling?</I> thought Michael, as he was getting scolded by his dad for acting up. Michael was supposed to tutor his little brother Tim about farming.
